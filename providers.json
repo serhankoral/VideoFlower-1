@@ -1,0 +1,19 @@
+{
+  "policy": {
+    "allowed_host_hints": [
+      "youtube.com",
+      "youtu.be",
+      "doodstream.com",
+      "dood.to",
+      "closeload.com",
+      "rapidrame.com",
+      "drakkar",
+      "vidrame.com",
+      "vidrame.pro"
+    ],
+    "blacklist_entries": [],
+    "min_content_length_mb": 0,
+    "exclude_manifest": false
+  },
+  "profiles": []
+}
